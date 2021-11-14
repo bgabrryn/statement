@@ -4,7 +4,7 @@
   --background-color: #000 !important;
 }
 
-/* Hiding Unnecessary Elements */
+/* Hiding Notion Clutter */
 .notion-page__icon,
 .notion-toggle,
 .notion-navbar,
@@ -20,7 +20,7 @@
 
 /* Content Styling */
 
-h1, h2, h3, h4, h5, h6, p, ol, ul, li {
+h2, p {
   color: var(--text-color) !important;
 }
 
